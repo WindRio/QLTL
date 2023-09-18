@@ -1,0 +1,10 @@
+:where(.css-dev-only-do-not-override-190m0jy).ant-layout .ant-layout-sider {
+  background: #f2f3f4;
+}
+h3:where(.css-dev-only-do-not-override-190m0jy).ant-typography,
+div:where(.css-dev-only-do-not-override-190m0jy).ant-typography-h3,
+div:where(.css-dev-only-do-not-override-190m0jy).ant-typography-h3 > textarea,
+:where(.css-dev-only-do-not-override-190m0jy).ant-typography h3 {
+  margin-top: 5px;
+  margin-bottom: 0;
+}
